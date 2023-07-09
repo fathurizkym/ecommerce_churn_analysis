@@ -1,0 +1,14 @@
+- Fokus masalah:
+	Meningkatkan pengguna taxi jenis taxi hijau dilihat dari 
+
+- Turunan masalah: (Kenali karakteristik penumpang)
+  1. Lihat pengguna terbanyak taxi hijau ini pickup di zone (wilayah) mana (PickupLocation)
+  2. Lihat juga pengguna terbanyak taxi hijau ini dropoff di zone (wilayah) mana (DropoffLocation)
+  3. Distribusi trip tiap minggunya
+  4. Lihat karakteristik pengguna berdasarkan payment_type
+  5. Lihat karakteristik pengguna berdasarkan trip type
+
+- Solusi: (https://www.yelowsoft.com/blog/key-strategies-to-get-more-customers-taxi-business)
+  1. Buat Iklan Bertarget:
+	Tetapkan target iklan untuk pengguna dengan karakteristik ....
+  2. Buat 
